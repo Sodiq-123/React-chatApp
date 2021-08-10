@@ -1,1 +1,1 @@
-# React-chatapp
+# React-chatApp
